@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body, ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+.header, .nav-list, .header-title, .container-nav{
+    display: flex;
+}
+
