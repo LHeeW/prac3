@@ -99,6 +99,8 @@ img {
 .icon-name{
     text-align: center;
     cursor: pointer;
+    font-family: Nanum Pen Script;
+    font-size: 20px;
 }
 .icon-box{
   border-radius: 10px;
